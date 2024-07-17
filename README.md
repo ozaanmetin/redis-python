@@ -12,7 +12,6 @@ To get started with implementing these examples, follow these steps:
   ```bash
   sudo apt install redis
 
-
 # Virtual Environment
 It's recommended to use a virtual environment to manage dependencies for these examples. Follow these steps to create and activate a virtual environment:
 
